@@ -1,0 +1,31 @@
+Video
+https://www.youtube.com/watch?v=_ld5B_ZvFWA&t=32s
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npx expo install react-native-gesture-handler
+npx expo install react-native-reanimated
+npx expo install expo-system-ui
+ 
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/native-stack
+npm install @react-navigation/drawer
+npm install @react-navigation/material-top-tabs
+npx expo install react-native-pager-view
+npx expo install react-native-reanimated
+
+-----------------
+
+npm install @react-navigation/native
+ @react-navigation/bottom-tabs 
+ @react-navigation/native-stack
+ @react-navigation/drawer
+ @react-navigation/material-top-tabs
+ react-native-tab-view
+
+ npm install @react-navigation/native
+ react-navigation/bottom-tabs 
+ react-navigation/native-stack
+ react-navigation/drawer
+ react-navigation/material-top-tabs
+ react-native-tab-view
